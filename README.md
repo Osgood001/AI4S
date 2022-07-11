@@ -1,9 +1,12 @@
 ## Main Content
 
-[Nothing]
+### Reference
+this contains relevant articles/textbooks I'm reading
+- Generative Models for Physicists
+- Machine Learning For Molecular Simlulation
+- Neural Canonical Transformation with Symplectic Flows
+- Neural Network Renormalization Group
 
-## Planning
-- a review on modern ML theory/application
-- a reivew on ML+MD progress
-- an implementation of MD using Monte Carol and Velocity Verlet [May be uploaded in another repo]
-- To Be Continued...
+### Molecular Dynamics
+a simple implementation of MD algorithms and simulations
+
